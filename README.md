@@ -1,1 +1,1 @@
-# P-ndulos_acoplados
+# Pendulos_acoplados
